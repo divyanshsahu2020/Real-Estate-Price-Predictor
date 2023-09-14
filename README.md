@@ -2,6 +2,7 @@
 DESCRIPTION - The real estate price predictor is a machine learning project designed to provide accurate predictions of property prices based in various input features. This project aims to assist homebuyers, real estate investors, and sellers in making informed decisions by estimating property values. It leverages a dataset containing information about different propotions among the population, pupil-teacher ratio, the average number rules and more relevant characteristics.
 
 DATASET - This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
+
 The attributes are:
 **CRIM** - per capita crime rate by town
 **ZN** - proportion of residential land zoned for lots over 25,000 sq.ft.
