@@ -5,6 +5,7 @@ DESCRIPTION - The real estate price predictor is a machine learning project desi
 
 DATASET - This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
 The attributes are:
+
 **CRIM** - per capita crime rate by town
 
 **ZN** - proportion of residential land zoned for lots over 25,000 sq.ft.
